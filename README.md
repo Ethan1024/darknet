@@ -141,7 +141,7 @@ eval=coco
 
 #### Pre-trained models
 
-**##如何在GPU上评估YOLOv4的FPS##**
+# 如何在GPU上评估YOLOv4的FPS
 
 There are weights-file for different cfg-files (trained for MS COCO dataset):
 
